@@ -1,0 +1,6 @@
+C:\Users\Vijetha Datla\Documents\Visual Studio 2013\Projects\WcfService1\RedPill\RedPill\obj\Debug\RedPill.csprojResolveAssemblyReference.cache
+C:\Users\Vijetha Datla\Documents\Visual Studio 2013\Projects\WcfService1\RedPill\RedPill\bin\RedPill.dll.config
+C:\Users\Vijetha Datla\Documents\Visual Studio 2013\Projects\WcfService1\RedPill\RedPill\bin\RedPill.dll
+C:\Users\Vijetha Datla\Documents\Visual Studio 2013\Projects\WcfService1\RedPill\RedPill\bin\RedPill.pdb
+C:\Users\Vijetha Datla\Documents\Visual Studio 2013\Projects\WcfService1\RedPill\RedPill\obj\Debug\RedPill.dll
+C:\Users\Vijetha Datla\Documents\Visual Studio 2013\Projects\WcfService1\RedPill\RedPill\obj\Debug\RedPill.pdb
